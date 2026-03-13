@@ -14,9 +14,11 @@ https://agentskills.io
 Copy the skill folder to your project.  
 The place / structur depends on the coding agent you are using.
 
-But a standard might be  
-`.agents/skills/<your-skill>/SKILL.md`
+But a universal standard is  
+`.agent/skills/<your-skill>/SKILL.md`
 
 ### Openskills
 
 https://github.com/numman-ali/openskills
+
+`npx openskills install mfgmicha/agent-skills --universal`
